@@ -21,7 +21,7 @@
     "jsonwebtoken": "^7.1.9",
     "lodash": "^4.17.10",
     "moment": "^2.14.1",
-    "mongoose": "^4.5.10",
+    "mongoose": "^5.7.5",
     "morgan": "~1.7.0",
     "multer": "^1.2.0",
     "node-notifier": "^5.0.2",
